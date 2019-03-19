@@ -9,6 +9,6 @@ def second_challenge
   #code your solution here!
   grocery_array = Array.new
   grocery_array << groceries.values
-  puts grocery_array
+  puts grocery_array.flatten
   return grocery_array.flatten
 end
