@@ -12,3 +12,5 @@ def second_challenge
   puts grocery_array.flatten
   return grocery_array.flatten
 end
+
+## shoveled the values in the hash to the newly created array. returned it and flattened it
