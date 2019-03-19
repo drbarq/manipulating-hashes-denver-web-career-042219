@@ -10,5 +10,5 @@ def second_challenge
   grocery_array = Array.new
   grocery_array << groceries.values
   puts grocery_array
-
+  return grocery_array
 end
