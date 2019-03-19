@@ -26,11 +26,10 @@ def first_challenge
         puts contacts
       end
     end
-
+    return contacts
+  end
 
 
 
 
   #remember to return your newly altered contacts hash!
-  return contacts
-end
