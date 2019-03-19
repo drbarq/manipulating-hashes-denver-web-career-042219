@@ -26,8 +26,6 @@ def first_challenge
         puts contacts
       end
     end
-  
+
 
     return contacts
-
-end
